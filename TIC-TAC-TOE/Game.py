@@ -1,3 +1,8 @@
+import math
+import time
+from player import HumanPlayer, RandomComputerPlayer, SmartComputerPlayer
+
+
 class TicTacToe():
     def __init__(self):
         self.board = self.make_board()
