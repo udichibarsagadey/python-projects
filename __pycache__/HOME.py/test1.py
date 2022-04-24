@@ -19,13 +19,4 @@ while running:
     pygame.draw.circle(screen,(0,0,255),(50,50),30)
     
     pygame.display.flip()
-    
-
-
-
-
-
-
-
-
 pygame.quit()
